@@ -1,0 +1,8 @@
+﻿  Calculator.cpp
+D:\Work\C++\ConsoleCalculator\ConsoleCalculator\Calculator.cpp(127,39): warning C4101: e: неиспользованная локальная переменная
+D:\Work\C++\ConsoleCalculator\ConsoleCalculator\Calculator.cpp(116): message : во время компиляции функции-члена класс шаблон "void MayConsoleCalculator<int32_t>::CinOperation(void)"
+D:\Work\C++\ConsoleCalculator\ConsoleCalculator\Calculator.cpp(177): message : выполняется компиляция ссылки на экземпляр шаблон функции "void MayConsoleCalculator<int32_t>::CinOperation(void)"
+D:\Work\C++\ConsoleCalculator\ConsoleCalculator\Calculator.cpp(175): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MayConsoleCalculator<int32_t>"
+  ConsoleCalculator.cpp
+  Создание кода...
+  ConsoleCalculator.vcxproj -> D:\Work\C++\ConsoleCalculator\Debug\ConsoleCalculator.exe
